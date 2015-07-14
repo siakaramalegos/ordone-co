@@ -512,10 +512,10 @@ aside.cta-quote span.quote {
 .about-content {
   padding: 30px;
 }
-.about-carousel .item {
+.about .item {
   padding: 15px;
 }
-.about-carousel .item .caption {
+.about .item .caption {
   padding: 15px;
   color: rgba(255, 255, 255, 0.7);
   width: 100%;
@@ -527,25 +527,25 @@ aside.cta-quote span.quote {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
-.about-carousel .item .caption h3 {
+.about .item .caption h3 {
   font-family: 'Arvo', serif;
   margin: 0;
 }
-.about-carousel .item .caption hr {
+.about .item .caption hr {
   margin: 5px auto;
   max-width: 50px;
 }
-.about-carousel .item .caption p {
+.about .item .caption p {
   margin: 0;
 }
-.about-carousel .item .caption ul.social {
+.about .item .caption ul.social {
   margin-top: 5px;
 }
-.about-carousel .item .caption ul.social li a {
+.about .item .caption ul.social li a {
   color: rgba(255, 255, 255, 0.7);
 }
-.about-carousel .item .caption ul.social li a:hover,
-.about-carousel .item .caption ul.social li a:focus {
+.about .item .caption ul.social li a:hover,
+.about .item .caption ul.social li a:focus {
   color: white;
 }
 .about-carousel .owl-controls {
